@@ -18,6 +18,7 @@
     pip install folium
     pip install six
     ```
+- Create an outlook mail and enable POP and IMAP section of sync mail in settings. Use credentials of your mail in info.py file by replacing sample@outlook.com and password
 - Run the following command to run the website:
     ```bash
     python manage.py runserver
