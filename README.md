@@ -1,4 +1,4 @@
-- Download the ZIP file and unzip it to a specific folder.
+- Download the ZIP file and unzip it to a specific folder
 - Open command prompt and change directory to that folder.
   - Use the following command:
     ```bash
